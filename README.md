@@ -5,18 +5,24 @@ Automation-Using-Python
 
 Author: Neeraj Mishra
 
-Required libraries: ```python email, openpyxl```.
+Required libraries:
+```python
+email, openpyxl
+```
 
 Install the libraries using pip and command prompt:
 
-```pip install email```
-
-```pip install openpyxl```
+```python
+pip install email
+pip install openpyxl
+```
 
 ReadMe for Project: B&QR
 For the project in "B&QR", there is a line of code as follows:
 
-```python workbook = excel.load_workbook("TestFile.xlsx")```
+```python
+python workbook = excel.load_workbook("TestFile.xlsx")
+```
 
 So, this TestFile is created by copying the:
 ____________________
@@ -41,7 +47,9 @@ This feature has been enabled.
 ReadMe for Project: PE&E
 This project is more straightforward, you just have to give the file location in the following field:
 
-```workbook = excel.load_workbook("TestFile.xlsx")```
+```python
+workbook = excel.load_workbook("TestFile.xlsx")
+```
 
 The columns which will be referenced, are:
 ____________________
