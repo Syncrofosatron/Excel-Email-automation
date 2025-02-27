@@ -5,7 +5,7 @@ Automation-Using-Python
 
 Author: Neeraj Mishra
 
-Required libraries: ```email, openpyxl```.
+Required libraries: ```python email, openpyxl```.
 
 Install the libraries using pip and command prompt:
 
