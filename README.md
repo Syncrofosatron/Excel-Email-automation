@@ -1,8 +1,3 @@
-![38-383271_excel-logo-png-microsoft-excel-logo-transparent-png-removebg-preview](https://github.com/user-attachments/assets/375964da-81fc-408c-b6d4-b597f0d1590a)    ![pythoned](https://github.com/user-attachments/assets/b7909259-881c-4dfb-81d1-ab1849905bfb)
-
-
-
-
 # Excel-Email-automation
 Excel &amp; Email automation using Python, it extracts values from excel file and then puts it in an email saving it as draft requiring just a click-of-a-button.
 
